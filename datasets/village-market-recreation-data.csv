@@ -1,0 +1,11 @@
+Date,Facility,Visitors,Revenue_KES,Customer_Type,Activity
+2026-05-01,Ballpoint,45,13500,Walk-in,Pool
+2026-05-01,Bowling,120,72000,Walk-in,Bowling
+2026-05-02,Ballpoint,52,15600,Member,Pool
+2026-05-02,Mini Golf,35,17500,Walk-in,Mini Golf
+2026-05-03,Ozone,150,90000,Family,Trampoline
+2026-05-03,Ballpoint,60,18000,Walk-in,Board Games
+2026-05-04,Bowling,130,78000,Corporate,Bowling
+2026-05-04,Ozone,170,102000,Family,Trampoline
+2026-05-05,Ballpoint,55,16500,Walk-in,Pool
+2026-05-05,Mini Golf,40,20000,Tourist,Mini Golf
