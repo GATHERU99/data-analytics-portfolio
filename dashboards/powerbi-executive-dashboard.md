@@ -2,22 +2,44 @@
 
 ## Objective
 
-Provide executives with high-level business insights.
+Provide executives with a high-level overview of recreation business performance.
 
 ## KPIs
 
-- Revenue
-- Profit
-- Customers
-- Growth Rate
+- Total Revenue
+- Total Visitors
+- Revenue per Visitor
+- Top Performing Facility
+- Customer Mix
 
 ## Visuals
 
+### Revenue Overview
+
 - KPI Cards
-- Revenue Trends
-- Geographic Analysis
-- Customer Segmentation
+- Revenue Trend
 
-## Business Value
+### Facility Analysis
 
-Supports strategic decision-making.
+- Revenue by Facility
+- Visitors by Facility
+
+### Customer Analysis
+
+- Customer Type Breakdown
+
+### Strategic Insights
+
+- Best Performing Facility
+- Revenue Opportunities
+- Visitor Trends
+
+## Tools
+
+- Power BI
+- Excel
+- SQL
+
+## Author
+
+Paul Gatheru
